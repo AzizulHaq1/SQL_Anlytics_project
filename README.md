@@ -5,7 +5,7 @@
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
 
-## The questions I wanted to answer through my SQL queries were:
+### The questions I wanted to answer through my SQL queries were:
 
 1. What are the top-paying data analyst jobs?
 2. What skills are required for these top-paying jobs?
